@@ -1,0 +1,5 @@
+{
+  "name": "Mega-Sena Draw Analyzer v9",
+  "description": "A high-performance lottery analysis tool that identifies probable numbers based on historical frequency and time deltas, including draw simulations and historical matching.",
+  "requestFramePermissions": []
+}
